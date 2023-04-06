@@ -1,3 +1,5 @@
+.
+.
 this
 in
 is
@@ -41,7 +43,7 @@ hastam
 was
 bood
 programmer
-barname nevis
+barnamenevis
 place
 makan
 what
@@ -206,3 +208,5 @@ for
 baraye
 homan
 homan
+school
+madrese
