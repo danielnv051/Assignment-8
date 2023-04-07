@@ -27,6 +27,7 @@ def read_from_file():
             my_dict = {"en":temp[i], "fa":temp[i+1]}
             words_bank.append(my_dict) 
         f.close()
+        return words_bank
     else:
         print('No word bank found...!')
 
